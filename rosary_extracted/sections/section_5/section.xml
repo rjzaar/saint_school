@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="5">
+  <number>4</number>
+  <name>Section 4: The Mysteries of the Rosary</name>
+  <summary>&lt;p&gt;Explore the four sets of mysteries.&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>13,14,15,16,17</sequence>
+  <visible>1</visible>
+  <availabilityjson>$@NULL@$</availabilityjson>
+  <timemodified>1767129514</timemodified>
+</section>

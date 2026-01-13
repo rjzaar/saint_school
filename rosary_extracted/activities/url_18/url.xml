@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="18" moduleid="18" modulename="url" contextid="118">
+  <url id="18">
+    <name>Guided Rosary: Joyful Mysteries</name>
+    <intro>&lt;p&gt;Pray the Joyful Mysteries with EWTN.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.youtube.com/watch?v=h6yLn9kJfCE</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:&quot;printintro&quot;;i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1767129514</timemodified>
+  </url>
+</activity>

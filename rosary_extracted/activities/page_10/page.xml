@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="10" moduleid="10" modulename="page" contextid="110">
+  <page id="10">
+    <name>Understanding Rosary Beads</name>
+    <intro/>
+    <introformat>1</introformat>
+    <content>&lt;h2&gt;Understanding Rosary Beads&lt;/h2&gt;
+&lt;h3&gt;Parts of the Rosary&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Crucifix:&lt;/strong&gt; Sign of the Cross and Apostles' Creed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First large bead:&lt;/strong&gt; Our Father&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Three small beads:&lt;/strong&gt; Three Hail Marys&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Centerpiece:&lt;/strong&gt; Connects stem to main loop&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Five decades:&lt;/strong&gt; Each has 1 large bead (Our Father) + 10 small beads (Hail Marys)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;No beads?&lt;/strong&gt; You can count on your fingers, use an app, or pray along with a guided video!&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:&quot;printheading&quot;;s:1:&quot;1&quot;;s:10:&quot;printintro&quot;;s:1:&quot;0&quot;;s:17:&quot;printlastmodified&quot;;s:1:&quot;1&quot;;}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1767129514</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="21" moduleid="21" modulename="url" contextid="121">
+  <url id="21">
+    <name>Guided Rosary: Luminous Mysteries</name>
+    <intro>&lt;p&gt;Pray the Luminous Mysteries.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.youtube.com/watch?v=T4Bm3a47lHs</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:&quot;printintro&quot;;i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1767129514</timemodified>
+  </url>
+</activity>

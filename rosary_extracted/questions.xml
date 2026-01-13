@@ -1,0 +1,2026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="1">
+    <name>Default for rosary101</name>
+    <contextid>1</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>2</contextinstanceid>
+    <info>The default category for questions in this course.</info>
+    <infoformat>0</infoformat>
+    <stamp>moodle.example.com+1767129514+185636</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+      <question id="1">
+        <parent>0</parent>
+        <name>First Prayer on Crucifix</name>
+        <questiontext>&lt;p&gt;Which prayer is said while holding the crucifix at the very beginning of the Rosary?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+721308</stamp>
+        <version>moodle.example.com+1767129514+369385</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="1">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="100">
+            <answertext>The Apostles' Creed</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! The Apostles' Creed is prayed while holding the crucifix.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="101">
+            <answertext>The Our Father</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Our Father comes after the Creed, on the first bead.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="102">
+            <answertext>The Hail Mary</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Hail Mary comes after the Our Father.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="103">
+            <answertext>The Glory Be</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Glory Be is prayed after the three Hail Marys.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="2">
+        <parent>0</parent>
+        <name>Hail Mary Source</name>
+        <questiontext>&lt;p&gt;The first part of the Hail Mary ('Hail Mary, full of grace...blessed is the fruit of thy womb') comes from which source?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+550457</stamp>
+        <version>moodle.example.com+1767129514+377014</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="2">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="200">
+            <answertext>Scripture - the words of Gabriel and Elizabeth</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! Luke 1:28 (Gabriel) and Luke 1:42 (Elizabeth).</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="201">
+            <answertext>The writings of St. Thomas Aquinas</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The words come directly from Scripture.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="202">
+            <answertext>The Council of Trent</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The words come from the Gospel of Luke.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="203">
+            <answertext>Pope Pius V</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Pius V added the second part, but the first part is from Scripture.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="3">
+        <parent>0</parent>
+        <name>Number of Hail Marys</name>
+        <questiontext>&lt;p&gt;How many Hail Marys are prayed in ONE decade of the Rosary?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+670804</stamp>
+        <version>moodle.example.com+1767129514+713432</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="3">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="300">
+            <answertext>10</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! A 'decade' means ten Hail Marys.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="301">
+            <answertext>5</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. There are 5 decades, but each decade has 10 Hail Marys.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="302">
+            <answertext>50</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. 50 is the total in all five decades combined.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="303">
+            <answertext>3</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Three Hail Marys are prayed at the beginning, but each decade has 10.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="4">
+        <parent>0</parent>
+        <name>Our Father Source</name>
+        <questiontext>&lt;p&gt;The Our Father (Lord's Prayer) was taught directly by Jesus to his disciples.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+938706</stamp>
+        <version>moodle.example.com+1767129514+671913</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <truefalse id="4">
+            <trueanswer>400</trueanswer>
+            <falseanswer>401</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <answers>
+          <answer id="400">
+            <answertext>True</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0000000</fraction>
+            <feedback>Correct! Jesus taught this prayer in Matthew 6:9-13.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="401">
+            <answertext>False</answertext>
+            <answerformat>0</answerformat>
+            <fraction>0.0000000</fraction>
+            <feedback>Incorrect. The Our Father comes directly from Jesus' teaching in the Gospels.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="5">
+        <parent>0</parent>
+        <name>Fatima Prayer Required</name>
+        <questiontext>&lt;p&gt;The Fatima Prayer ('O my Jesus, forgive us our sins...') is required to pray a valid Rosary.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+282633</stamp>
+        <version>moodle.example.com+1767129514+473448</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <truefalse id="5">
+            <trueanswer>500</trueanswer>
+            <falseanswer>501</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <answers>
+          <answer id="500">
+            <answertext>True</answertext>
+            <answerformat>0</answerformat>
+            <fraction>0.0000000</fraction>
+            <feedback>Incorrect. The Fatima Prayer is optional, though many Catholics include it.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="501">
+            <answertext>False</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0000000</fraction>
+            <feedback>Correct! The Fatima Prayer is a popular addition but not required.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="6">
+        <parent>0</parent>
+        <name>Hail Holy Queen When</name>
+        <questiontext>&lt;p&gt;When is the Hail Holy Queen (Salve Regina) prayed?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+133946</stamp>
+        <version>moodle.example.com+1767129514+432716</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="6">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="600">
+            <answertext>After completing all five decades</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! It's the closing prayer after the five decades.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="601">
+            <answertext>Before the first decade</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. It comes at the end of the Rosary.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="602">
+            <answertext>After each decade</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Glory Be comes after each decade.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="603">
+            <answertext>Only on Marian feast days</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. It's prayed every time at the end of the Rosary.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="7">
+        <parent>0</parent>
+        <name>Three Hail Marys Purpose</name>
+        <questiontext>&lt;p&gt;The three Hail Marys at the beginning of the Rosary are traditionally offered for an increase in which virtues?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+368859</stamp>
+        <version>moodle.example.com+1767129514+739559</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="7">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="700">
+            <answertext>Faith, Hope, and Charity (Love)</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! These are the three theological virtues.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="701">
+            <answertext>Prudence, Justice, and Temperance</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Those are cardinal virtues. The three Hail Marys are for the theological virtues.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="702">
+            <answertext>Humility, Patience, and Obedience</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The traditional intention is for faith, hope, and charity.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="703">
+            <answertext>Peace, Joy, and Love</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The traditional intention is for faith, hope, and charity.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="8">
+        <parent>0</parent>
+        <name>Complete the Prayer</name>
+        <questiontext>&lt;p&gt;Complete this line from the Hail Mary: 'Holy Mary, Mother of God, pray for us ______'&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>shortanswer</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+357309</stamp>
+        <version>moodle.example.com+1767129514+662097</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_shortanswer_question>
+          <shortanswer id="8">
+            <usecase>0</usecase>
+          </shortanswer>
+        </plugin_qtype_shortanswer_question>
+        <answers>
+          <answer id="800">
+            <answertext>sinners</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0</fraction>
+            <feedback/>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="801">
+            <answertext>sinners,</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0</fraction>
+            <feedback/>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="9">
+        <parent>0</parent>
+        <name>Total Decades</name>
+        <questiontext>&lt;p&gt;How many decades are in a standard Rosary?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+132514</stamp>
+        <version>moodle.example.com+1767129514+563489</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="9">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="900">
+            <answertext>5</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! A standard Rosary has 5 decades.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="901">
+            <answertext>10</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. There are 10 Hail Marys per decade, but only 5 decades total.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="902">
+            <answertext>15</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. 15 decades would be a full rosary of the original three mysteries.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="903">
+            <answertext>20</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. 20 is the total number of mysteries, but a standard Rosary prays 5.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="10">
+        <parent>0</parent>
+        <name>Large Bead Prayer</name>
+        <questiontext>&lt;p&gt;Which prayer is said on the LARGE beads of the Rosary?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+434321</stamp>
+        <version>moodle.example.com+1767129514+930796</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="10">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="1000">
+            <answertext>Our Father</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! The large beads mark the Our Father at the start of each decade.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1001">
+            <answertext>Hail Mary</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Hail Marys are prayed on the small beads.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1002">
+            <answertext>Glory Be</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Glory Be is prayed in the space between decades.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1003">
+            <answertext>Apostles' Creed</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Creed is prayed on the crucifix, not the beads.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="11">
+        <parent>0</parent>
+        <name>Order of Prayers</name>
+        <questiontext>&lt;p&gt;Put these prayers in the correct order for the BEGINNING of the Rosary:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+109171</stamp>
+        <version>moodle.example.com+1767129514+931247</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_ordering_question>
+          <matchoptions id="11">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="1100">
+              <questiontext>Step 1</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Sign of the Cross</answertext>
+            </match>
+            <match id="1101">
+              <questiontext>Step 2</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Apostles' Creed</answertext>
+            </match>
+            <match id="1102">
+              <questiontext>Step 3</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Our Father</answertext>
+            </match>
+            <match id="1103">
+              <questiontext>Step 4</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Three Hail Marys</answertext>
+            </match>
+            <match id="1104">
+              <questiontext>Step 5</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Glory Be</answertext>
+            </match>
+            <match id="1105">
+              <questiontext>Step 6</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Announce the First Mystery</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_ordering_question>
+      </question>
+      <question id="12">
+        <parent>0</parent>
+        <name>Beads Required</name>
+        <questiontext>&lt;p&gt;You must have rosary beads to pray the Rosary validly.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+505691</stamp>
+        <version>moodle.example.com+1767129514+561915</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <truefalse id="12">
+            <trueanswer>1200</trueanswer>
+            <falseanswer>1201</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <answers>
+          <answer id="1200">
+            <answertext>True</answertext>
+            <answerformat>0</answerformat>
+            <fraction>0.0000000</fraction>
+            <feedback>Incorrect. You can count on your fingers or use other methods.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1201">
+            <answertext>False</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0000000</fraction>
+            <feedback>Correct! Beads are helpful but not required. You can count on your fingers.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="13">
+        <parent>0</parent>
+        <name>Rosary Time</name>
+        <questiontext>&lt;p&gt;Approximately how long does it take to pray a complete five-decade Rosary?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+639707</stamp>
+        <version>moodle.example.com+1767129514+402928</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="13">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="1300">
+            <answertext>15-20 minutes</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! A typical Rosary takes about 15-20 minutes.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1301">
+            <answertext>5 minutes</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That would be very rushed. A full Rosary takes longer.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1302">
+            <answertext>1 hour</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Unless praying very slowly, a Rosary doesn't take that long.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1303">
+            <answertext>45 minutes</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That would be quite slow. Typically 15-20 minutes.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="14">
+        <parent>0</parent>
+        <name>Centerpiece Location</name>
+        <questiontext>&lt;p&gt;Where is the centerpiece (medal) located on a rosary?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+832189</stamp>
+        <version>moodle.example.com+1767129514+940895</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="14">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="1400">
+            <answertext>Between the introductory beads and the main loop of five decades</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! It connects the stem to the circle.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1401">
+            <answertext>At the very end after the crucifix</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The crucifix is at the end of the stem.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1402">
+            <answertext>Between each decade</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The decades are separated by single large beads.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1403">
+            <answertext>There is no centerpiece on a rosary</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Most rosaries have a centerpiece or medal.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="15">
+        <parent>0</parent>
+        <name>Total Mystery Sets</name>
+        <questiontext>&lt;p&gt;How many sets of mysteries are there in the Rosary?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+216891</stamp>
+        <version>moodle.example.com+1767129514+198857</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="15">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="1500">
+            <answertext>4 (Joyful, Luminous, Sorrowful, Glorious)</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct!</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1501">
+            <answertext>3 (Joyful, Sorrowful, Glorious)</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Luminous Mysteries were added in 2002.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1502">
+            <answertext>5</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. There are 4 sets, each with 5 mysteries.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1503">
+            <answertext>20</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. There are 20 total mysteries, but only 4 sets.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="16">
+        <parent>0</parent>
+        <name>Luminous Added By</name>
+        <questiontext>&lt;p&gt;Who added the Luminous Mysteries to the Rosary in 2002?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+871382</stamp>
+        <version>moodle.example.com+1767129514+599594</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="16">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="1600">
+            <answertext>Pope St. John Paul II</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! He added them in his apostolic letter Rosarium Virginis Mariae.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1601">
+            <answertext>Pope Benedict XVI</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. It was John Paul II in 2002.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1602">
+            <answertext>Pope Francis</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. It was John Paul II in 2002.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1603">
+            <answertext>St. Dominic</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. St. Dominic lived in the 13th century.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="17">
+        <parent>0</parent>
+        <name>Match Mystery to Day</name>
+        <questiontext>&lt;p&gt;Match each set of mysteries to the day(s) they are traditionally prayed:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>matching</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+105518</stamp>
+        <version>moodle.example.com+1767129514+625017</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_matching_question>
+          <matchoptions id="17">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="1700">
+              <questiontext>Joyful Mysteries</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Monday and Saturday</answertext>
+            </match>
+            <match id="1701">
+              <questiontext>Sorrowful Mysteries</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Tuesday and Friday</answertext>
+            </match>
+            <match id="1702">
+              <questiontext>Glorious Mysteries</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Wednesday and Sunday</answertext>
+            </match>
+            <match id="1703">
+              <questiontext>Luminous Mysteries</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Thursday</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_matching_question>
+      </question>
+      <question id="18">
+        <parent>0</parent>
+        <name>First Joyful Mystery</name>
+        <questiontext>&lt;p&gt;What is the FIRST Joyful Mystery?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+988145</stamp>
+        <version>moodle.example.com+1767129514+932451</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="18">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="1800">
+            <answertext>The Annunciation</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! Gabriel announces to Mary that she will conceive Jesus.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1801">
+            <answertext>The Visitation</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That is the second Joyful Mystery.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1802">
+            <answertext>The Nativity</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That is the third Joyful Mystery.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1803">
+            <answertext>The Baptism of Jesus</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That is a Luminous Mystery, not Joyful.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="19">
+        <parent>0</parent>
+        <name>Sorrowful Focus</name>
+        <questiontext>&lt;p&gt;The Sorrowful Mysteries focus on which part of Jesus' life?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+335849</stamp>
+        <version>moodle.example.com+1767129514+906852</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="19">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="1900">
+            <answertext>His Passion and Death</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! The Sorrowful Mysteries cover the Passion.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1901">
+            <answertext>His childhood</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That's the Joyful Mysteries.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1902">
+            <answertext>His public ministry</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That's the Luminous Mysteries.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="1903">
+            <answertext>His Resurrection and Ascension</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That's the Glorious Mysteries.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="20">
+        <parent>0</parent>
+        <name>Wedding at Cana</name>
+        <questiontext>&lt;p&gt;The Wedding at Cana is part of which set of mysteries?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+279154</stamp>
+        <version>moodle.example.com+1767129514+329839</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="20">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="2000">
+            <answertext>Luminous Mysteries</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! It's the second Luminous Mystery.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2001">
+            <answertext>Joyful Mysteries</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Joyful Mysteries cover the Incarnation and infancy.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2002">
+            <answertext>Glorious Mysteries</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Glorious Mysteries focus on the Resurrection and beyond.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2003">
+            <answertext>Sorrowful Mysteries</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Sorrowful Mysteries cover the Passion.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="21">
+        <parent>0</parent>
+        <name>Fifth Glorious Mystery</name>
+        <questiontext>&lt;p&gt;What is the FIFTH (last) Glorious Mystery?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+574791</stamp>
+        <version>moodle.example.com+1767129514+846902</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="21">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="2100">
+            <answertext>The Coronation of Mary as Queen of Heaven</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct!</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2101">
+            <answertext>The Assumption of Mary</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That is the fourth Glorious Mystery.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2102">
+            <answertext>The Descent of the Holy Spirit</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That is the third Glorious Mystery.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2103">
+            <answertext>The Resurrection</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That is the first Glorious Mystery.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="22">
+        <parent>0</parent>
+        <name>Must Follow Schedule</name>
+        <questiontext>&lt;p&gt;You MUST pray the mysteries according to the traditional daily schedule (e.g., Joyful on Monday).&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+611663</stamp>
+        <version>moodle.example.com+1767129514+235117</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <truefalse id="22">
+            <trueanswer>2200</trueanswer>
+            <falseanswer>2201</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <answers>
+          <answer id="2200">
+            <answertext>True</answertext>
+            <answerformat>0</answerformat>
+            <fraction>0.0000000</fraction>
+            <feedback>Incorrect. The schedule is a suggestion, not a requirement.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2201">
+            <answertext>False</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0000000</fraction>
+            <feedback>Correct! You may pray any mysteries on any day. The schedule is just a tradition.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="23">
+        <parent>0</parent>
+        <name>Agony in Garden</name>
+        <questiontext>&lt;p&gt;'The Agony in the Garden' is which mystery?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+641245</stamp>
+        <version>moodle.example.com+1767129514+220513</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="23">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="2300">
+            <answertext>First Sorrowful Mystery</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! Jesus prays in Gethsemane before his arrest.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2301">
+            <answertext>First Glorious Mystery</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The first Glorious Mystery is the Resurrection.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2302">
+            <answertext>Fifth Joyful Mystery</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That is the Finding in the Temple.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2303">
+            <answertext>Second Sorrowful Mystery</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The second Sorrowful Mystery is the Scourging.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="24">
+        <parent>0</parent>
+        <name>Mysteries per Set</name>
+        <questiontext>&lt;p&gt;How many individual mysteries are in EACH set (Joyful, Luminous, Sorrowful, Glorious)?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>shortanswer</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+773401</stamp>
+        <version>moodle.example.com+1767129514+756976</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_shortanswer_question>
+          <shortanswer id="24">
+            <usecase>0</usecase>
+          </shortanswer>
+        </plugin_qtype_shortanswer_question>
+        <answers>
+          <answer id="2400">
+            <answertext>5</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0</fraction>
+            <feedback/>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2401">
+            <answertext>five</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0</fraction>
+            <feedback/>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2402">
+            <answertext>Five</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0</fraction>
+            <feedback/>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="25">
+        <parent>0</parent>
+        <name>Rosary Definition</name>
+        <questiontext>&lt;p&gt;The Rosary is best described as:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+729822</stamp>
+        <version>moodle.example.com+1767129514+656050</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="25">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="2500">
+            <answertext>A Scripture-based, Christ-centered meditative prayer</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! The Rosary is rooted in Scripture and focused on the life of Christ.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2501">
+            <answertext>A prayer only for advanced Catholics</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Rosary is for everyone, beginners included.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2502">
+            <answertext>A prayer that replaced the Mass</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Rosary complements but does not replace the Mass.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2503">
+            <answertext>A prayer invented in the 20th century</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Rosary has roots going back to the Middle Ages.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="26">
+        <parent>0</parent>
+        <name>Fatima Request</name>
+        <questiontext>&lt;p&gt;At Fatima in 1917, Our Lady asked the children to:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+759442</stamp>
+        <version>moodle.example.com+1767129514+162867</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="26">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="2600">
+            <answertext>Pray the Rosary every day for peace</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! Our Lady of Fatima emphasized daily Rosary prayer.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2601">
+            <answertext>Only pray on Sundays</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. She asked for daily prayer.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2602">
+            <answertext>Stop praying the Rosary</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. She encouraged the Rosary strongly.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2603">
+            <answertext>Pray only the Sorrowful Mysteries</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. She encouraged all the mysteries.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="27">
+        <parent>0</parent>
+        <name>Mary Focus</name>
+        <questiontext>&lt;p&gt;Although many prayers in the Rosary are addressed to Mary, the Rosary is ultimately Christ-centered because we meditate on the life of Jesus.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+759468</stamp>
+        <version>moodle.example.com+1767129514+282966</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <truefalse id="27">
+            <trueanswer>2700</trueanswer>
+            <falseanswer>2701</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <answers>
+          <answer id="2700">
+            <answertext>True</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0000000</fraction>
+            <feedback>Correct! Mary leads us to Jesus through the mysteries.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2701">
+            <answertext>False</answertext>
+            <answerformat>0</answerformat>
+            <fraction>0.0000000</fraction>
+            <feedback>Incorrect. The Rosary IS Christ-centered through meditation on Jesus' life.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="28">
+        <parent>0</parent>
+        <name>Total Hail Marys</name>
+        <questiontext>&lt;p&gt;How many Hail Marys are in a complete five-decade Rosary (not counting the opening three)?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+977457</stamp>
+        <version>moodle.example.com+1767129514+297779</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="28">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="2800">
+            <answertext>50</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! 5 decades × 10 Hail Marys = 50.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2801">
+            <answertext>53</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. 53 would include the opening three, but the question asks for the decades only.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2802">
+            <answertext>100</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. That would be 10 decades.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2803">
+            <answertext>150</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. 150 was the original psalter connection, but a standard Rosary has 50.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="29">
+        <parent>0</parent>
+        <name>Meditation Meaning</name>
+        <questiontext>&lt;p&gt;To 'meditate' on a mystery while praying the Rosary means to:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+150655</stamp>
+        <version>moodle.example.com+1767129514+668849</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="29">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="2900">
+            <answertext>Picture the scene in your mind and reflect on its meaning</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! Meditation involves visualization and reflection.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2901">
+            <answertext>Empty your mind completely</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Christian meditation fills the mind with sacred images.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2902">
+            <answertext>Pray faster to finish quickly</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Meditation involves slowing down and contemplating.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="2903">
+            <answertext>Read a book while praying</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Meditation is an interior focus on the mystery.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="30">
+        <parent>0</parent>
+        <name>Intention Purpose</name>
+        <questiontext>&lt;p&gt;Offering an 'intention' for your Rosary means:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+494762</stamp>
+        <version>moodle.example.com+1767129514+447973</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="30">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="3000">
+            <answertext>Praying for a specific person, cause, or need</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! We can offer our Rosary for any worthy intention.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3001">
+            <answertext>Planning to pray tomorrow</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. An intention is what you're praying FOR, not when.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3002">
+            <answertext>Saying the prayers louder</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. An intention is the purpose of your prayer.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3003">
+            <answertext>Praying in Latin only</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Rosary can be prayed in any language.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="31">
+        <parent>0</parent>
+        <name>Mind Wandering</name>
+        <questiontext>&lt;p&gt;If your mind wanders during the Rosary, you should stop praying and start over from the beginning.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+104499</stamp>
+        <version>moodle.example.com+1767129514+267897</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <truefalse id="31">
+            <trueanswer>3100</trueanswer>
+            <falseanswer>3101</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <answers>
+          <answer id="3100">
+            <answertext>True</answertext>
+            <answerformat>0</answerformat>
+            <fraction>0.0000000</fraction>
+            <feedback>Incorrect. Simply bring your mind gently back and continue.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3101">
+            <answertext>False</answertext>
+            <answerformat>0</answerformat>
+            <fraction>1.0000000</fraction>
+            <feedback>Correct! Distractions are normal. Just refocus and continue praying.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="32">
+        <parent>0</parent>
+        <name>Sacramental Definition</name>
+        <questiontext>&lt;p&gt;Rosary beads are classified as a:&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+775692</stamp>
+        <version>moodle.example.com+1767129514+616517</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="32">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="3200">
+            <answertext>Sacramental</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! Sacramentals are sacred objects that help us grow in holiness.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3201">
+            <answertext>Sacrament</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. There are only 7 sacraments, and the rosary is not one of them.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3202">
+            <answertext>Relic</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Relics are objects associated with saints.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3203">
+            <answertext>Icon</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Icons are sacred images.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="33">
+        <parent>0</parent>
+        <name>Best Habit Advice</name>
+        <questiontext>&lt;p&gt;What is the BEST advice for building a daily Rosary habit?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+283431</stamp>
+        <version>moodle.example.com+1767129514+964981</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="33">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="3300">
+            <answertext>Start small (even one decade) and anchor it to an existing routine</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct! Small, consistent steps build lasting habits.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3301">
+            <answertext>Only pray when you feel perfectly focused</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Waiting for perfect conditions means rarely praying.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3302">
+            <answertext>Pray 15 decades immediately from day one</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. Starting too big often leads to burnout.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3303">
+            <answertext>Only pray in church</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Rosary can be prayed anywhere.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+      <question id="34">
+        <parent>0</parent>
+        <name>Closing Prayer</name>
+        <questiontext>&lt;p&gt;Which prayer includes the line 'To thee do we cry, poor banished children of Eve'?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback/>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>moodle.example.com+1767129514+313713</stamp>
+        <version>moodle.example.com+1767129514+472728</version>
+        <hidden>0</hidden>
+        <timecreated>1767129514</timecreated>
+        <timemodified>1767129514</timemodified>
+        <createdby>2</createdby>
+        <modifiedby>2</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <multichoice id="34">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <answers>
+          <answer id="3400">
+            <answertext>Hail Holy Queen (Salve Regina)</answertext>
+            <answerformat>1</answerformat>
+            <fraction>1.0</fraction>
+            <feedback>Correct!</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3401">
+            <answertext>Apostles' Creed</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Creed is a profession of faith.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3402">
+            <answertext>Our Father</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Our Father addresses God the Father.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+          <answer id="3403">
+            <answertext>Hail Mary</answertext>
+            <answerformat>1</answerformat>
+            <fraction>0.0</fraction>
+            <feedback>Incorrect. The Hail Mary is shorter and different.</feedback>
+            <feedbackformat>1</feedbackformat>
+          </answer>
+        </answers>
+      </question>
+    </questions>
+  </question_category>
+</question_categories>

@@ -1,0 +1,614 @@
+{
+    "1": {
+        "name": "First Prayer on Crucifix",
+        "text": "<p>Which prayer is said while holding the crucifix at the very beginning of the Rosary?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "The Apostles' Creed",
+                "fraction": 1
+            },
+            {
+                "text": "The Our Father",
+                "fraction": 0
+            },
+            {
+                "text": "The Hail Mary",
+                "fraction": 0
+            },
+            {
+                "text": "The Glory Be",
+                "fraction": 0
+            }
+        ]
+    },
+    "2": {
+        "name": "Hail Mary Source",
+        "text": "<p>The first part of the Hail Mary ('Hail Mary, full of grace...blessed is the fruit of thy womb') comes from which source?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Scripture - the words of Gabriel and Elizabeth",
+                "fraction": 1
+            },
+            {
+                "text": "The writings of St. Thomas Aquinas",
+                "fraction": 0
+            },
+            {
+                "text": "The Council of Trent",
+                "fraction": 0
+            },
+            {
+                "text": "Pope Pius V",
+                "fraction": 0
+            }
+        ]
+    },
+    "3": {
+        "name": "Number of Hail Marys",
+        "text": "<p>How many Hail Marys are prayed in ONE decade of the Rosary?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "10",
+                "fraction": 1
+            },
+            {
+                "text": "5",
+                "fraction": 0
+            },
+            {
+                "text": "50",
+                "fraction": 0
+            },
+            {
+                "text": "3",
+                "fraction": 0
+            }
+        ]
+    },
+    "4": {
+        "name": "Our Father Source",
+        "text": "<p>The Our Father (Lord's Prayer) was taught directly by Jesus to his disciples.<\/p>",
+        "type": "truefalse",
+        "answers": []
+    },
+    "5": {
+        "name": "Fatima Prayer Required",
+        "text": "<p>The Fatima Prayer ('O my Jesus, forgive us our sins...') is required to pray a valid Rosary.<\/p>",
+        "type": "truefalse",
+        "answers": []
+    },
+    "6": {
+        "name": "Hail Holy Queen When",
+        "text": "<p>When is the Hail Holy Queen (Salve Regina) prayed?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "After completing all five decades",
+                "fraction": 1
+            },
+            {
+                "text": "Before the first decade",
+                "fraction": 0
+            },
+            {
+                "text": "After each decade",
+                "fraction": 0
+            },
+            {
+                "text": "Only on Marian feast days",
+                "fraction": 0
+            }
+        ]
+    },
+    "7": {
+        "name": "Three Hail Marys Purpose",
+        "text": "<p>The three Hail Marys at the beginning of the Rosary are traditionally offered for an increase in which virtues?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Faith, Hope, and Charity (Love)",
+                "fraction": 1
+            },
+            {
+                "text": "Prudence, Justice, and Temperance",
+                "fraction": 0
+            },
+            {
+                "text": "Humility, Patience, and Obedience",
+                "fraction": 0
+            },
+            {
+                "text": "Peace, Joy, and Love",
+                "fraction": 0
+            }
+        ]
+    },
+    "8": {
+        "name": "Complete the Prayer",
+        "text": "<p>Complete this line from the Hail Mary: 'Holy Mary, Mother of God, pray for us ______'<\/p>",
+        "type": "shortanswer",
+        "answers": []
+    },
+    "9": {
+        "name": "Total Decades",
+        "text": "<p>How many decades are in a standard Rosary?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "5",
+                "fraction": 1
+            },
+            {
+                "text": "10",
+                "fraction": 0
+            },
+            {
+                "text": "15",
+                "fraction": 0
+            },
+            {
+                "text": "20",
+                "fraction": 0
+            }
+        ]
+    },
+    "10": {
+        "name": "Large Bead Prayer",
+        "text": "<p>Which prayer is said on the LARGE beads of the Rosary?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Our Father",
+                "fraction": 1
+            },
+            {
+                "text": "Hail Mary",
+                "fraction": 0
+            },
+            {
+                "text": "Glory Be",
+                "fraction": 0
+            },
+            {
+                "text": "Apostles' Creed",
+                "fraction": 0
+            }
+        ]
+    },
+    "11": {
+        "name": "Order of Prayers",
+        "text": "<p>Put these prayers in the correct order for the BEGINNING of the Rosary:<\/p>",
+        "type": "match",
+        "answers": []
+    },
+    "12": {
+        "name": "Beads Required",
+        "text": "<p>You must have rosary beads to pray the Rosary validly.<\/p>",
+        "type": "truefalse",
+        "answers": []
+    },
+    "13": {
+        "name": "Rosary Time",
+        "text": "<p>Approximately how long does it take to pray a complete five-decade Rosary?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "15-20 minutes",
+                "fraction": 1
+            },
+            {
+                "text": "5 minutes",
+                "fraction": 0
+            },
+            {
+                "text": "1 hour",
+                "fraction": 0
+            },
+            {
+                "text": "45 minutes",
+                "fraction": 0
+            }
+        ]
+    },
+    "14": {
+        "name": "Centerpiece Location",
+        "text": "<p>Where is the centerpiece (medal) located on a rosary?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Between the introductory beads and the main loop of five decades",
+                "fraction": 1
+            },
+            {
+                "text": "At the very end after the crucifix",
+                "fraction": 0
+            },
+            {
+                "text": "Between each decade",
+                "fraction": 0
+            },
+            {
+                "text": "There is no centerpiece on a rosary",
+                "fraction": 0
+            }
+        ]
+    },
+    "15": {
+        "name": "Total Mystery Sets",
+        "text": "<p>How many sets of mysteries are there in the Rosary?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "4 (Joyful, Luminous, Sorrowful, Glorious)",
+                "fraction": 1
+            },
+            {
+                "text": "3 (Joyful, Sorrowful, Glorious)",
+                "fraction": 0
+            },
+            {
+                "text": "5",
+                "fraction": 0
+            },
+            {
+                "text": "20",
+                "fraction": 0
+            }
+        ]
+    },
+    "16": {
+        "name": "Luminous Added By",
+        "text": "<p>Who added the Luminous Mysteries to the Rosary in 2002?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Pope St. John Paul II",
+                "fraction": 1
+            },
+            {
+                "text": "Pope Benedict XVI",
+                "fraction": 0
+            },
+            {
+                "text": "Pope Francis",
+                "fraction": 0
+            },
+            {
+                "text": "St. Dominic",
+                "fraction": 0
+            }
+        ]
+    },
+    "17": {
+        "name": "Match Mystery to Day",
+        "text": "<p>Match each set of mysteries to the day(s) they are traditionally prayed:<\/p>",
+        "type": "matching",
+        "answers": []
+    },
+    "18": {
+        "name": "First Joyful Mystery",
+        "text": "<p>What is the FIRST Joyful Mystery?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "The Annunciation",
+                "fraction": 1
+            },
+            {
+                "text": "The Visitation",
+                "fraction": 0
+            },
+            {
+                "text": "The Nativity",
+                "fraction": 0
+            },
+            {
+                "text": "The Baptism of Jesus",
+                "fraction": 0
+            }
+        ]
+    },
+    "19": {
+        "name": "Sorrowful Focus",
+        "text": "<p>The Sorrowful Mysteries focus on which part of Jesus' life?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "His Passion and Death",
+                "fraction": 1
+            },
+            {
+                "text": "His childhood",
+                "fraction": 0
+            },
+            {
+                "text": "His public ministry",
+                "fraction": 0
+            },
+            {
+                "text": "His Resurrection and Ascension",
+                "fraction": 0
+            }
+        ]
+    },
+    "20": {
+        "name": "Wedding at Cana",
+        "text": "<p>The Wedding at Cana is part of which set of mysteries?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Luminous Mysteries",
+                "fraction": 1
+            },
+            {
+                "text": "Joyful Mysteries",
+                "fraction": 0
+            },
+            {
+                "text": "Glorious Mysteries",
+                "fraction": 0
+            },
+            {
+                "text": "Sorrowful Mysteries",
+                "fraction": 0
+            }
+        ]
+    },
+    "21": {
+        "name": "Fifth Glorious Mystery",
+        "text": "<p>What is the FIFTH (last) Glorious Mystery?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "The Coronation of Mary as Queen of Heaven",
+                "fraction": 1
+            },
+            {
+                "text": "The Assumption of Mary",
+                "fraction": 0
+            },
+            {
+                "text": "The Descent of the Holy Spirit",
+                "fraction": 0
+            },
+            {
+                "text": "The Resurrection",
+                "fraction": 0
+            }
+        ]
+    },
+    "22": {
+        "name": "Must Follow Schedule",
+        "text": "<p>You MUST pray the mysteries according to the traditional daily schedule (e.g., Joyful on Monday).<\/p>",
+        "type": "truefalse",
+        "answers": []
+    },
+    "23": {
+        "name": "Agony in Garden",
+        "text": "<p>'The Agony in the Garden' is which mystery?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "First Sorrowful Mystery",
+                "fraction": 1
+            },
+            {
+                "text": "First Glorious Mystery",
+                "fraction": 0
+            },
+            {
+                "text": "Fifth Joyful Mystery",
+                "fraction": 0
+            },
+            {
+                "text": "Second Sorrowful Mystery",
+                "fraction": 0
+            }
+        ]
+    },
+    "24": {
+        "name": "Mysteries per Set",
+        "text": "<p>How many individual mysteries are in EACH set (Joyful, Luminous, Sorrowful, Glorious)?<\/p>",
+        "type": "shortanswer",
+        "answers": []
+    },
+    "25": {
+        "name": "Rosary Definition",
+        "text": "<p>The Rosary is best described as:<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "A Scripture-based, Christ-centered meditative prayer",
+                "fraction": 1
+            },
+            {
+                "text": "A prayer only for advanced Catholics",
+                "fraction": 0
+            },
+            {
+                "text": "A prayer that replaced the Mass",
+                "fraction": 0
+            },
+            {
+                "text": "A prayer invented in the 20th century",
+                "fraction": 0
+            }
+        ]
+    },
+    "26": {
+        "name": "Fatima Request",
+        "text": "<p>At Fatima in 1917, Our Lady asked the children to:<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Pray the Rosary every day for peace",
+                "fraction": 1
+            },
+            {
+                "text": "Only pray on Sundays",
+                "fraction": 0
+            },
+            {
+                "text": "Stop praying the Rosary",
+                "fraction": 0
+            },
+            {
+                "text": "Pray only the Sorrowful Mysteries",
+                "fraction": 0
+            }
+        ]
+    },
+    "27": {
+        "name": "Mary Focus",
+        "text": "<p>Although many prayers in the Rosary are addressed to Mary, the Rosary is ultimately Christ-centered because we meditate on the life of Jesus.<\/p>",
+        "type": "truefalse",
+        "answers": []
+    },
+    "28": {
+        "name": "Total Hail Marys",
+        "text": "<p>How many Hail Marys are in a complete five-decade Rosary (not counting the opening three)?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "50",
+                "fraction": 1
+            },
+            {
+                "text": "53",
+                "fraction": 0
+            },
+            {
+                "text": "100",
+                "fraction": 0
+            },
+            {
+                "text": "150",
+                "fraction": 0
+            }
+        ]
+    },
+    "29": {
+        "name": "Meditation Meaning",
+        "text": "<p>To 'meditate' on a mystery while praying the Rosary means to:<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Picture the scene in your mind and reflect on its meaning",
+                "fraction": 1
+            },
+            {
+                "text": "Empty your mind completely",
+                "fraction": 0
+            },
+            {
+                "text": "Pray faster to finish quickly",
+                "fraction": 0
+            },
+            {
+                "text": "Read a book while praying",
+                "fraction": 0
+            }
+        ]
+    },
+    "30": {
+        "name": "Intention Purpose",
+        "text": "<p>Offering an 'intention' for your Rosary means:<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Praying for a specific person, cause, or need",
+                "fraction": 1
+            },
+            {
+                "text": "Planning to pray tomorrow",
+                "fraction": 0
+            },
+            {
+                "text": "Saying the prayers louder",
+                "fraction": 0
+            },
+            {
+                "text": "Praying in Latin only",
+                "fraction": 0
+            }
+        ]
+    },
+    "31": {
+        "name": "Mind Wandering",
+        "text": "<p>If your mind wanders during the Rosary, you should stop praying and start over from the beginning.<\/p>",
+        "type": "truefalse",
+        "answers": []
+    },
+    "32": {
+        "name": "Sacramental Definition",
+        "text": "<p>Rosary beads are classified as a:<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Sacramental",
+                "fraction": 1
+            },
+            {
+                "text": "Sacrament",
+                "fraction": 0
+            },
+            {
+                "text": "Relic",
+                "fraction": 0
+            },
+            {
+                "text": "Icon",
+                "fraction": 0
+            }
+        ]
+    },
+    "33": {
+        "name": "Best Habit Advice",
+        "text": "<p>What is the BEST advice for building a daily Rosary habit?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Start small (even one decade) and anchor it to an existing routine",
+                "fraction": 1
+            },
+            {
+                "text": "Only pray when you feel perfectly focused",
+                "fraction": 0
+            },
+            {
+                "text": "Pray 15 decades immediately from day one",
+                "fraction": 0
+            },
+            {
+                "text": "Only pray in church",
+                "fraction": 0
+            }
+        ]
+    },
+    "34": {
+        "name": "Closing Prayer",
+        "text": "<p>Which prayer includes the line 'To thee do we cry, poor banished children of Eve'?<\/p>",
+        "type": "multichoice",
+        "answers": [
+            {
+                "text": "Hail Holy Queen (Salve Regina)",
+                "fraction": 1
+            },
+            {
+                "text": "Apostles' Creed",
+                "fraction": 0
+            },
+            {
+                "text": "Our Father",
+                "fraction": 0
+            },
+            {
+                "text": "Hail Mary",
+                "fraction": 0
+            }
+        ]
+    }
+}

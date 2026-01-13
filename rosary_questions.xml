@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>First Prayer on Crucifix</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which prayer is said while holding the crucifix at the very beginning of the Rosary?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The Apostles' Creed]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! The Apostles' Creed is prayed while holding the crucifix.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Our Father]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Our Father comes after the Creed, on the first bead.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Hail Mary]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Hail Mary comes after the Our Father.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Glory Be]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Glory Be is prayed after the three Hail Marys.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Hail Mary Source</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The first part of the Hail Mary ('Hail Mary, full of grace...blessed is the fruit of thy womb') comes from which source?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Scripture - the words of Gabriel and Elizabeth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! Luke 1:28 (Gabriel) and Luke 1:42 (Elizabeth).]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The writings of St. Thomas Aquinas]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The words come directly from Scripture.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Council of Trent]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The words come from the Gospel of Luke.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pope Pius V]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Pius V added the second part, but the first part is from Scripture.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Number of Hail Marys</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>How many Hail Marys are prayed in ONE decade of the Rosary?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! A 'decade' means ten Hail Marys.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. There are 5 decades, but each decade has 10 Hail Marys.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[50]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. 50 is the total in all five decades combined.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Three Hail Marys are prayed at the beginning, but each decade has 10.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="truefalse">
+    <name>
+      <text>Our Father Source</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The Our Father (Lord's Prayer) was taught directly by Jesus to his disciples.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="truefalse">
+    <name>
+      <text>Fatima Prayer Required</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The Fatima Prayer ('O my Jesus, forgive us our sins...') is required to pray a valid Rosary.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Hail Holy Queen When</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When is the Hail Holy Queen (Salve Regina) prayed?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[After completing all five decades]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! It's the closing prayer after the five decades.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Before the first decade]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. It comes at the end of the Rosary.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[After each decade]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Glory Be comes after each decade.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only on Marian feast days]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. It's prayed every time at the end of the Rosary.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Three Hail Marys Purpose</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The three Hail Marys at the beginning of the Rosary are traditionally offered for an increase in which virtues?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Faith, Hope, and Charity (Love)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! These are the three theological virtues.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Prudence, Justice, and Temperance]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Those are cardinal virtues. The three Hail Marys are for the theological virtues.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Humility, Patience, and Obedience]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The traditional intention is for faith, hope, and charity.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Peace, Joy, and Love]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The traditional intention is for faith, hope, and charity.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="shortanswer">
+    <name>
+      <text>Complete the Prayer</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Complete this line from the Hail Mary: 'Holy Mary, Mother of God, pray for us ______'</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Total Decades</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>How many decades are in a standard Rosary?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! A standard Rosary has 5 decades.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. There are 10 Hail Marys per decade, but only 5 decades total.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[15]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. 15 decades would be a full rosary of the original three mysteries.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. 20 is the total number of mysteries, but a standard Rosary prays 5.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Large Bead Prayer</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which prayer is said on the LARGE beads of the Rosary?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Our Father]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! The large beads mark the Our Father at the start of each decade.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Hail Mary]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Hail Marys are prayed on the small beads.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Glory Be]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Glory Be is prayed in the space between decades.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Apostles' Creed]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Creed is prayed on the crucifix, not the beads.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="match">
+    <name>
+      <text>Order of Prayers</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Put these prayers in the correct order for the BEGINNING of the Rosary:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="truefalse">
+    <name>
+      <text>Beads Required</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>You must have rosary beads to pray the Rosary validly.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Rosary Time</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Approximately how long does it take to pray a complete five-decade Rosary?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[15-20 minutes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! A typical Rosary takes about 15-20 minutes.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5 minutes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That would be very rushed. A full Rosary takes longer.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[1 hour]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Unless praying very slowly, a Rosary doesn't take that long.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[45 minutes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That would be quite slow. Typically 15-20 minutes.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Centerpiece Location</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Where is the centerpiece (medal) located on a rosary?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Between the introductory beads and the main loop of five decades]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! It connects the stem to the circle.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[At the very end after the crucifix]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The crucifix is at the end of the stem.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Between each decade]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The decades are separated by single large beads.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[There is no centerpiece on a rosary]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Most rosaries have a centerpiece or medal.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Total Mystery Sets</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>How many sets of mysteries are there in the Rosary?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4 (Joyful, Luminous, Sorrowful, Glorious)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct!]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[3 (Joyful, Sorrowful, Glorious)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Luminous Mysteries were added in 2002.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[5]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. There are 4 sets, each with 5 mysteries.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[20]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. There are 20 total mysteries, but only 4 sets.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Luminous Added By</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Who added the Luminous Mysteries to the Rosary in 2002?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Pope St. John Paul II]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! He added them in his apostolic letter Rosarium Virginis Mariae.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pope Benedict XVI]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. It was John Paul II in 2002.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pope Francis]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. It was John Paul II in 2002.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[St. Dominic]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. St. Dominic lived in the 13th century.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="matching">
+    <name>
+      <text>Match Mystery to Day</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Match each set of mysteries to the day(s) they are traditionally prayed:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>First Joyful Mystery</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What is the FIRST Joyful Mystery?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The Annunciation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! Gabriel announces to Mary that she will conceive Jesus.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Visitation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That is the second Joyful Mystery.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Nativity]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That is the third Joyful Mystery.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Baptism of Jesus]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That is a Luminous Mystery, not Joyful.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Sorrowful Focus</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The Sorrowful Mysteries focus on which part of Jesus' life?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[His Passion and Death]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! The Sorrowful Mysteries cover the Passion.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[His childhood]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That's the Joyful Mysteries.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[His public ministry]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That's the Luminous Mysteries.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[His Resurrection and Ascension]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That's the Glorious Mysteries.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Wedding at Cana</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The Wedding at Cana is part of which set of mysteries?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Luminous Mysteries]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! It's the second Luminous Mystery.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Joyful Mysteries]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Joyful Mysteries cover the Incarnation and infancy.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Glorious Mysteries]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Glorious Mysteries focus on the Resurrection and beyond.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sorrowful Mysteries]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Sorrowful Mysteries cover the Passion.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Fifth Glorious Mystery</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What is the FIFTH (last) Glorious Mystery?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The Coronation of Mary as Queen of Heaven]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct!]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Assumption of Mary]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That is the fourth Glorious Mystery.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Descent of the Holy Spirit]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That is the third Glorious Mystery.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[The Resurrection]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That is the first Glorious Mystery.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="truefalse">
+    <name>
+      <text>Must Follow Schedule</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>You MUST pray the mysteries according to the traditional daily schedule (e.g., Joyful on Monday).</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Agony in Garden</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>'The Agony in the Garden' is which mystery?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[First Sorrowful Mystery]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! Jesus prays in Gethsemane before his arrest.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[First Glorious Mystery]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The first Glorious Mystery is the Resurrection.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Fifth Joyful Mystery]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That is the Finding in the Temple.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Second Sorrowful Mystery]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The second Sorrowful Mystery is the Scourging.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="shortanswer">
+    <name>
+      <text>Mysteries per Set</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>How many individual mysteries are in EACH set (Joyful, Luminous, Sorrowful, Glorious)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Rosary Definition</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The Rosary is best described as:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A Scripture-based, Christ-centered meditative prayer]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! The Rosary is rooted in Scripture and focused on the life of Christ.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A prayer only for advanced Catholics]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Rosary is for everyone, beginners included.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A prayer that replaced the Mass]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Rosary complements but does not replace the Mass.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A prayer invented in the 20th century]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Rosary has roots going back to the Middle Ages.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Fatima Request</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>At Fatima in 1917, Our Lady asked the children to:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Pray the Rosary every day for peace]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! Our Lady of Fatima emphasized daily Rosary prayer.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only pray on Sundays]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. She asked for daily prayer.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Stop praying the Rosary]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. She encouraged the Rosary strongly.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pray only the Sorrowful Mysteries]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. She encouraged all the mysteries.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="truefalse">
+    <name>
+      <text>Mary Focus</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Although many prayers in the Rosary are addressed to Mary, the Rosary is ultimately Christ-centered because we meditate on the life of Jesus.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Total Hail Marys</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>How many Hail Marys are in a complete five-decade Rosary (not counting the opening three)?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[50]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! 5 decades × 10 Hail Marys = 50.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[53]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. 53 would include the opening three, but the question asks for the decades only.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[100]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. That would be 10 decades.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[150]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. 150 was the original psalter connection, but a standard Rosary has 50.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Meditation Meaning</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>To 'meditate' on a mystery while praying the Rosary means to:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Picture the scene in your mind and reflect on its meaning]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! Meditation involves visualization and reflection.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Empty your mind completely]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Christian meditation fills the mind with sacred images.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pray faster to finish quickly]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Meditation involves slowing down and contemplating.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Read a book while praying]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Meditation is an interior focus on the mystery.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Intention Purpose</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Offering an 'intention' for your Rosary means:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Praying for a specific person, cause, or need]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! We can offer our Rosary for any worthy intention.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Planning to pray tomorrow]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. An intention is what you're praying FOR, not when.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Saying the prayers louder]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. An intention is the purpose of your prayer.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Praying in Latin only]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Rosary can be prayed in any language.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="truefalse">
+    <name>
+      <text>Mind Wandering</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>If your mind wanders during the Rosary, you should stop praying and start over from the beginning.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Sacramental Definition</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Rosary beads are classified as a:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Sacramental]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! Sacramentals are sacred objects that help us grow in holiness.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Sacrament]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. There are only 7 sacraments, and the rosary is not one of them.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Relic]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Relics are objects associated with saints.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Icon]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Icons are sacred images.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Best Habit Advice</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What is the BEST advice for building a daily Rosary habit?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Start small (even one decade) and anchor it to an existing routine]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct! Small, consistent steps build lasting habits.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only pray when you feel perfectly focused]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Waiting for perfect conditions means rarely praying.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Pray 15 decades immediately from day one]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. Starting too big often leads to burnout.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Only pray in church]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Rosary can be prayed anywhere.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Closing Prayer</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which prayer includes the line 'To thee do we cry, poor banished children of Eve'?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Hail Holy Queen (Salve Regina)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct!]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Apostles' Creed]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Creed is a profession of faith.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Our Father]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Our Father addresses God the Father.]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[Hail Mary]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect. The Hail Mary is shorter and different.]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="6" modulename="page" contextid="106">
+  <page id="6">
+    <name>The Hail Mary</name>
+    <intro/>
+    <introformat>1</introformat>
+    <content>&lt;h2&gt;The Hail Mary&lt;/h2&gt;
+&lt;p&gt;The heart of the Rosary - prayed 10 times per decade (50 total). The first part comes from Scripture (Luke 1:28, 42).&lt;/p&gt;
+&lt;div style=&quot;background-color: #f5f5f5; padding: 15px; border-left: 4px solid #8B4513; margin: 20px 0;&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:&quot;printheading&quot;;s:1:&quot;1&quot;;s:10:&quot;printintro&quot;;s:1:&quot;0&quot;;s:17:&quot;printlastmodified&quot;;s:1:&quot;1&quot;;}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1767129514</timemodified>
+  </page>
+</activity>

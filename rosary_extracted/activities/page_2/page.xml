@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="2" modulename="page" contextid="102">
+  <page id="2">
+    <name>History of the Rosary</name>
+    <intro/>
+    <introformat>1</introformat>
+    <content>&lt;h2&gt;A Brief History of the Rosary&lt;/h2&gt;
+&lt;h3&gt;Early Origins&lt;/h3&gt;
+&lt;p&gt;The historical roots of the Rosary lie in the early monastic practice of praying the 150 Psalms each week. Lay people who could not read began praying 150 Our Fathers or Hail Marys instead.&lt;/p&gt;
+&lt;h3&gt;St. Dominic and Our Lady&lt;/h3&gt;
+&lt;p&gt;Tradition holds that the Blessed Virgin Mary appeared to St. Dominic de Guzmán in 1214 and gave him the Rosary as a spiritual weapon.&lt;/p&gt;
+&lt;h3&gt;Key Dates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1569:&lt;/strong&gt; Pope St. Pius V established the form with 15 mysteries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1571:&lt;/strong&gt; Victory at Lepanto attributed to the Rosary&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1917:&lt;/strong&gt; Our Lady appeared at Fatima requesting daily Rosary&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2002:&lt;/strong&gt; Pope St. John Paul II added the Luminous Mysteries&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:&quot;printheading&quot;;s:1:&quot;1&quot;;s:10:&quot;printintro&quot;;s:1:&quot;0&quot;;s:17:&quot;printlastmodified&quot;;s:1:&quot;1&quot;;}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1767129514</timemodified>
+  </page>
+</activity>

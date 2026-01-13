@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="23" moduleid="23" modulename="page" contextid="123">
+  <page id="23">
+    <name>Tips for Meditation</name>
+    <intro/>
+    <introformat>1</introformat>
+    <content>&lt;h2&gt;Tips for Deeper Meditation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Visualize:&lt;/strong&gt; Picture the scene in your mind&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use Scripture:&lt;/strong&gt; Read the passage before each decade&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use sacred art:&lt;/strong&gt; Look at an image of the mystery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus on one word:&lt;/strong&gt; e.g., &quot;Jesus&quot; or &quot;grace&quot;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;When distracted:&lt;/strong&gt; Gently refocus and continue&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:&quot;printheading&quot;;s:1:&quot;1&quot;;s:10:&quot;printintro&quot;;s:1:&quot;0&quot;;s:17:&quot;printlastmodified&quot;;s:1:&quot;1&quot;;}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1767129514</timemodified>
+  </page>
+</activity>
